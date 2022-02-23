@@ -1,0 +1,8 @@
+/* envited landing page */
+body {
+  position: relative;
+  width: 375px;
+  height: 813px;
+
+  background: linear-gradient(163.63deg, #501fc1 12.2%, #c346d5 96.78%);
+}

@@ -1,0 +1,13 @@
+.createEventButton {
+  position: absolute;
+  left: 77px;
+  border-radius: 100px;
+
+  top: 307px;
+  bottom: 47.6%;
+  width: 221px;
+  height: 49px;
+
+  background: linear-gradient(107.04deg, #06d6a0 48.99%, #5794f7 118.32%);
+  border-radius: 100px;
+}

@@ -1,0 +1,19 @@
+.p {
+  position: absolute;
+  width: 275px;
+  height: 40px;
+  left: 40px;
+  top: 206px;
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 14px;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.32px;
+
+  color: #ffffff;
+}
